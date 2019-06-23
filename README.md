@@ -1,2 +1,0 @@
-# chakra
-Ashok Chakra
